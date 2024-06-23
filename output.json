@@ -1,0 +1,10 @@
+{
+    "./tests/test_api.py": 70,
+    "./examples/count_tokens.py": 20,
+    "./examples/basic_sync.py": 85,
+    "./examples/basic_stream.py": 90,
+    "./anthropic/constants.py": 90,
+    "./anthropic/__init__.py": 75,
+    "./anthropic/api.py": 80,
+    "./anthropic/tokenizer.py": 85
+}
